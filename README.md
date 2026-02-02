@@ -1,2 +1,3 @@
 # Skull-Selfbot
-Skull Selfbot For Discord In discord.py==1.7.3
+Needs discord.py==1.7.3
+Not working in discord.py==2.3.2
