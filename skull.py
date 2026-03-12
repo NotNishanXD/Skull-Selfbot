@@ -8,7 +8,7 @@
 #  ██████████   ████████▀   ▀██████▀    ████████▀   ▄████▀         ▄████▀   
 #                                                                           
 #
-#                code deamed as safe by @M4rkyyyyy. / egogpt aka vummrs jr
+#                code deamed as safe by @M4rkyyyyy. & Radwan
 #
 #                         Token found at line 366
 
