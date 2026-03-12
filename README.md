@@ -1,5 +1,4 @@
 # Skull-Selfbot
-N
 Chat-Packing Selfbot.
 # How to use?
 1. Clone this respository by running:
@@ -18,3 +17,5 @@ pip install -r requirements.txt
 ```bash
 python skull.py
 ```
+# Warning ⚠️
+**This selfbot only works with discord.py==1.7.3**
