@@ -244,6 +244,7 @@ async def on_message(message):
             'I WIN U FUCKING RETARD LFMAO UR NOT DOING SHIT',
             '# U CANT FUCKING PRESSURE',
             'WHY THIS NIGGA SOME SHIT LMFAO',
+            'LMFAO DIED 🥀',
         ]
         await send_messages(message.channel, sentences)
 
