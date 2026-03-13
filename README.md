@@ -19,3 +19,7 @@ python skull.py
 ```
 # Warning ⚠️
 **This selfbot only works with discord.py==1.7.3**
+
+<p align="center">
+  <img src="https://lanyard.cnrad.dev/api/1118496761435136040?bg=000000&borderRadius=20px&idleMessage=Living%20peacefully.%20%F0%9F%92%AB&theme=dark&showDisplayName=true"/>
+</p>
