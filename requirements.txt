@@ -1,9 +1,4 @@
-discord
+discord.py==1.7.3
 requests
-pytube
 instaloader
-os
-io
-random
-asyncio
-datetime
+pytube
